@@ -1,5 +1,5 @@
 {
-    "name": "andskur/laracrypto",
+    "name": "activeb/laracrypto",
     "description": "Laravel cryptocurrency integration",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "bitcoin",
         "blockchain"
     ],
-    "homepage": "https://github.com/andskur/laracrypto",
+    "homepage": "https://github.com/activeb/laracrypto",
     "license": "MIT",
     "authors": [
         {
